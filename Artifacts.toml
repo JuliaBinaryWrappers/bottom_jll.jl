@@ -1,0 +1,127 @@
+[[bottom]]
+arch = "aarch64"
+git-tree-sha1 = "97d968f4923f946dc2ecb2fec1df135ce2408976"
+os = "macos"
+
+    [[bottom.download]]
+    sha256 = "b0e11c695adaef639ecb4ffac3c8979a4fc656b7dd83ebad521507b8417b72bd"
+    url = "https://github.com/JuliaBinaryWrappers/bottom_jll.jl/releases/download/bottom-v0.6.8+0/bottom.v0.6.8.aarch64-apple-darwin.tar.gz"
+[[bottom]]
+arch = "aarch64"
+git-tree-sha1 = "62a1a45a2280aaa5a35029388722f80e60750c71"
+libc = "glibc"
+os = "linux"
+
+    [[bottom.download]]
+    sha256 = "1f15ba4e2d142aedf902f27b80af1ae1918ef1796af292542f189dde54e5cb18"
+    url = "https://github.com/JuliaBinaryWrappers/bottom_jll.jl/releases/download/bottom-v0.6.8+0/bottom.v0.6.8.aarch64-linux-gnu.tar.gz"
+[[bottom]]
+arch = "aarch64"
+git-tree-sha1 = "ae353a4126fac49fd6a9180ba837c696bec6028b"
+libc = "musl"
+os = "linux"
+
+    [[bottom.download]]
+    sha256 = "9657800352a43688ca9e944183783cc25365ef55d7ec68b31f589e020c62efae"
+    url = "https://github.com/JuliaBinaryWrappers/bottom_jll.jl/releases/download/bottom-v0.6.8+0/bottom.v0.6.8.aarch64-linux-musl.tar.gz"
+[[bottom]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6fb6f0af30cea1064ab45199cc5bad40a6f7cd3f"
+libc = "glibc"
+os = "linux"
+
+    [[bottom.download]]
+    sha256 = "d49d8508357863c84d8dcf5abd27177a7e6672954657bf4ba51aad0817619767"
+    url = "https://github.com/JuliaBinaryWrappers/bottom_jll.jl/releases/download/bottom-v0.6.8+0/bottom.v0.6.8.armv6l-linux-gnueabihf.tar.gz"
+[[bottom]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9d57f7c9ae15929e39d80108328c18ff89564c4e"
+libc = "musl"
+os = "linux"
+
+    [[bottom.download]]
+    sha256 = "5cf1d3d44aa792152b60bdb02abd0e323cc44722f270bd0492c9781d4643937f"
+    url = "https://github.com/JuliaBinaryWrappers/bottom_jll.jl/releases/download/bottom-v0.6.8+0/bottom.v0.6.8.armv6l-linux-musleabihf.tar.gz"
+[[bottom]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b4d150c96052e200979cd17bb521f73daf1a3863"
+libc = "glibc"
+os = "linux"
+
+    [[bottom.download]]
+    sha256 = "3dc79ae90feb5bdf9dfbd369f7d52d70f863ac0c7503ffec64b46088589ca4a6"
+    url = "https://github.com/JuliaBinaryWrappers/bottom_jll.jl/releases/download/bottom-v0.6.8+0/bottom.v0.6.8.armv7l-linux-gnueabihf.tar.gz"
+[[bottom]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b3ed2ffa638cd1bfe0c0db191d9c4133cc8f634f"
+libc = "musl"
+os = "linux"
+
+    [[bottom.download]]
+    sha256 = "dd881d5cb51ea135841c3afcdcee189dc38e070bd469ffcb5731ad5477388e40"
+    url = "https://github.com/JuliaBinaryWrappers/bottom_jll.jl/releases/download/bottom-v0.6.8+0/bottom.v0.6.8.armv7l-linux-musleabihf.tar.gz"
+[[bottom]]
+arch = "i686"
+git-tree-sha1 = "bbded737bc77990c99ca727ad29511bcf9c506d2"
+libc = "glibc"
+os = "linux"
+
+    [[bottom.download]]
+    sha256 = "a3a101ec63324eaa8b0cac0456e528491a154972b1e04cbfc65487f88e3ef0af"
+    url = "https://github.com/JuliaBinaryWrappers/bottom_jll.jl/releases/download/bottom-v0.6.8+0/bottom.v0.6.8.i686-linux-gnu.tar.gz"
+[[bottom]]
+arch = "i686"
+git-tree-sha1 = "96830ce00dc098821266f7594d26351e3990e799"
+libc = "musl"
+os = "linux"
+
+    [[bottom.download]]
+    sha256 = "8107ca93625955b79f2c8918482afa5badfe1fb667dd621f39b983660cb0dd43"
+    url = "https://github.com/JuliaBinaryWrappers/bottom_jll.jl/releases/download/bottom-v0.6.8+0/bottom.v0.6.8.i686-linux-musl.tar.gz"
+[[bottom]]
+arch = "powerpc64le"
+git-tree-sha1 = "6853c51ccf6eabc25cb774edeabfb7b6677cc65d"
+libc = "glibc"
+os = "linux"
+
+    [[bottom.download]]
+    sha256 = "95ea0188c50ddb775c6d0693d8c3ed42441adbb37eaaf5f363aa12016be53abf"
+    url = "https://github.com/JuliaBinaryWrappers/bottom_jll.jl/releases/download/bottom-v0.6.8+0/bottom.v0.6.8.powerpc64le-linux-gnu.tar.gz"
+[[bottom]]
+arch = "x86_64"
+git-tree-sha1 = "ed3bba1aa33b27c87cacb2a4415a89f9cf0a38ff"
+os = "macos"
+
+    [[bottom.download]]
+    sha256 = "6de0007448c38376d36f88b56fbbcfe905d84d1e4e6bf8bc41308281412e709f"
+    url = "https://github.com/JuliaBinaryWrappers/bottom_jll.jl/releases/download/bottom-v0.6.8+0/bottom.v0.6.8.x86_64-apple-darwin.tar.gz"
+[[bottom]]
+arch = "x86_64"
+git-tree-sha1 = "ebddafa69300587ce9be8dc606b38bd69a5b2f0b"
+libc = "glibc"
+os = "linux"
+
+    [[bottom.download]]
+    sha256 = "b6d33cfa369d1e8ea861d0767bb9df412fae1141815ee20f535d35cc2a3726b5"
+    url = "https://github.com/JuliaBinaryWrappers/bottom_jll.jl/releases/download/bottom-v0.6.8+0/bottom.v0.6.8.x86_64-linux-gnu.tar.gz"
+[[bottom]]
+arch = "x86_64"
+git-tree-sha1 = "4acb7360300c22a00f5e37a3ff08b83a26f60a4e"
+libc = "musl"
+os = "linux"
+
+    [[bottom.download]]
+    sha256 = "6ef77018c2f68ff057a1d52b5457598e6e698c850a800496ec656f46b8a0125f"
+    url = "https://github.com/JuliaBinaryWrappers/bottom_jll.jl/releases/download/bottom-v0.6.8+0/bottom.v0.6.8.x86_64-linux-musl.tar.gz"
+[[bottom]]
+arch = "x86_64"
+git-tree-sha1 = "a98b5b492fa503310ec5ec2448cca070c718b272"
+os = "windows"
+
+    [[bottom.download]]
+    sha256 = "ed24dd4727b4d834208f78a9886e7eab15658986f5becc1a39ad0b79cf32e355"
+    url = "https://github.com/JuliaBinaryWrappers/bottom_jll.jl/releases/download/bottom-v0.6.8+0/bottom.v0.6.8.x86_64-w64-mingw32.tar.gz"
